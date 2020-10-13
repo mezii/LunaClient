@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaLead", "LunaLead.csproj", "{CA67D010-60C0-4E68-A587-22B885540FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferLibrary", "..\OfferLibrary\OfferLibrary.csproj", "{8EECC0EA-D0A5-471D-9D21-27E7B35FD746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA67D010-60C0-4E68-A587-22B885540FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA67D010-60C0-4E68-A587-22B885540FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA67D010-60C0-4E68-A587-22B885540FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA67D010-60C0-4E68-A587-22B885540FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EECC0EA-D0A5-471D-9D21-27E7B35FD746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EECC0EA-D0A5-471D-9D21-27E7B35FD746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EECC0EA-D0A5-471D-9D21-27E7B35FD746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EECC0EA-D0A5-471D-9D21-27E7B35FD746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA9E785-55FE-4001-870C-EEE59D42AC60}
+	EndGlobalSection
+EndGlobal
